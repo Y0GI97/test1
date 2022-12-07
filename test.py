@@ -1,1 +1,1 @@
-print ()[D""[D[C[Dhello!!!!!")
+print ("hello world!")
